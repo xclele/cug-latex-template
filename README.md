@@ -1,5 +1,5 @@
 <h1 align="center">
-  自用CUG本科课程作业模板
+  自制CUG（中国地质大学）本科课程作业模板
 </h1>
 
 <p align="center">
@@ -14,7 +14,6 @@
 ## 模板下载
 
 * 页面右边点击：**Clone or download -> Download Zip**
-* 已经上传至Overleaf 和 TexPage 模板，开箱即用 ☞ [Overleaf](https://www.overleaf.com/latex/templates/sysu-latex-template/dxwrhzbydxyq), [TexPage](https://www.texpage.com/template/21db014e-5065-448c-a6f2-545b983aee2d) 
 
 ## 使用方法
 默认模板文件由以下四部分组成：
@@ -26,14 +25,16 @@
 
 使用时只需要修改 `main.tex` 和 `reference.bib` 即可，论文插图可以放在 `figures` 文件夹下，模板可以自动识别常见的插图文件夹，如 `figures`、`image`、`img` 等。
 
+**overleaf上封面姓名处使用自定义楷体可能会缺字体渲染不出来，可以考虑自己装字体或者使用TexPage。**
+
 --------- 
-**推荐使用[TexPage](https://www.texpage.com/)** 在线进行文档的编写和编译，无需进行本地安装。在不进行其他网络设置的情况下，国内访问的速度和稳定性也要比 Overleaf 好一些。本模板已经上传至 TexPage，可以直接进行使用，[TexPage 在线模板链接](https://www.texpage.com/template/21db014e-5065-448c-a6f2-545b983aee2d)。当然模板也上传了 Overleaf，[Overleaf 在线模板链接](https://www.overleaf.com/latex/templates/sysu-latex-template/dxwrhzbydxyq)。
+**推荐使用[TexPage](https://www.texpage.com/)** 在线进行文档的编写和编译，无需进行本地安装。在不进行其他网络设置的情况下，国内访问的速度和稳定性也要比 Overleaf 好一些。
 
 ---------
 
-|  [封面效果图](https://github.com/NorthSecond/SYSU_Latex_Template/blob/main/figures/sysu_report.png) |  [目录效果图](https://github.com/NorthSecond/Latex_Template/blob/main/figures/index.png)| 
+|  [封面效果图](https://my.microsoftpersonalcontent.com/personal/dc3594c94313e18b/_layouts/15/download.aspx?UniqueId=1433a0c5-3681-45a2-a9bb-43127df928b8&Translate=false&tempauth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfZGlzcGxheW5hbWUiOiJHcmFwaCIsImFwcGlkIjoiMDAwMDAwMDMtMDAwMC0wMDAwLWMwMDAtMDAwMDAwMDAwMDAwIiwiYXVkIjoiMDAwMDAwMDMtMDAwMC0wZmYxLWNlMDAtMDAwMDAwMDAwMDAwL215Lm1pY3Jvc29mdHBlcnNvbmFsY29udGVudC5jb21AOTE4ODA0MGQtNmM2Ny00YzViLWIxMTItMzZhMzA0YjY2ZGFkIiwiY2FjaGVrZXkiOiIwaC5mfG1lbWJlcnNoaXB8MDAwM2JmZmRkNGU4ODcwMkBsaXZlLmNvbSIsImNpZCI6InFNWFBVTUNuMjB1cytibE0xaWZyb2c9PSIsImVuZHBvaW50dXJsIjoiMEluSlpCZmtBTDZtbTA4ZU4rQjZEUjhLSnV5dmF5dzM3MkJLaUgyTFBXdz0iLCJlbmRwb2ludHVybExlbmd0aCI6IjE1MyIsImV4cCI6IjE3MTU0MzUxNzgiLCJpcGFkZHIiOiI1Mi4xMDQuMTAwLjE0MSIsImlzbG9vcGJhY2siOiJUcnVlIiwiaXNzIjoiMDAwMDAwMDMtMDAwMC0wZmYxLWNlMDAtMDAwMDAwMDAwMDAwIiwibmJmIjoiMTcxNTQzMTU3OCIsInB1aWQiOiIwMDAzQkZGREQ0RTg4NzAyIiwic2NwIjoibXlmaWxlcy5yZWFkIGFsbGZpbGVzLndyaXRlIGFsbHByb2ZpbGVzLnJlYWQiLCJzaWQiOiIzOTk5MjkxODcyMzc4MDQ0NDk1XzhjODkwYmJhLWU2ZjgtNGRmOC04MTUzLWE2NjA4M2Y5ZGQ3MyIsInNpdGVpZCI6Ik56TXhNbU15WkRJdE5qTTNZaTAwTnpaaExUbG1OMkl0TlRkaVltUmhPRFUxTkRJNCIsInRpZCI6IjkxODgwNDBkLTZjNjctNGM1Yi1iMTEyLTM2YTMwNGI2NmRhZCIsInR0IjoiMiIsInVwbiI6InhjbGVsZUBvdXRsb29rLmNvbSIsInZlciI6Imhhc2hlZHByb29mdG9rZW4ifQ.vSJobEwdG8yhxECPTgldKQSUAjK-18eFjEcmDdWtNQI&ApiVersion=2.0) |  [目录效果图](https://github.com/NorthSecond/Latex_Template/blob/main/figures/index.png)| 
 |:---:|:---:|
-| ![](https://github.com/NorthSecond/SYSU_Latex_Template/blob/main/figures/sysu_report.png?raw=true) | ![](https://github.com/NorthSecond/SYSU_Latex_Template/blob/main/figures/index.png?raw=true)| 
+| ![](https://my.microsoftpersonalcontent.com/personal/dc3594c94313e18b/_layouts/15/download.aspx?UniqueId=1433a0c5-3681-45a2-a9bb-43127df928b8&Translate=false&tempauth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfZGlzcGxheW5hbWUiOiJHcmFwaCIsImFwcGlkIjoiMDAwMDAwMDMtMDAwMC0wMDAwLWMwMDAtMDAwMDAwMDAwMDAwIiwiYXVkIjoiMDAwMDAwMDMtMDAwMC0wZmYxLWNlMDAtMDAwMDAwMDAwMDAwL215Lm1pY3Jvc29mdHBlcnNvbmFsY29udGVudC5jb21AOTE4ODA0MGQtNmM2Ny00YzViLWIxMTItMzZhMzA0YjY2ZGFkIiwiY2FjaGVrZXkiOiIwaC5mfG1lbWJlcnNoaXB8MDAwM2JmZmRkNGU4ODcwMkBsaXZlLmNvbSIsImNpZCI6InFNWFBVTUNuMjB1cytibE0xaWZyb2c9PSIsImVuZHBvaW50dXJsIjoiMEluSlpCZmtBTDZtbTA4ZU4rQjZEUjhLSnV5dmF5dzM3MkJLaUgyTFBXdz0iLCJlbmRwb2ludHVybExlbmd0aCI6IjE1MyIsImV4cCI6IjE3MTU0MzUxNzgiLCJpcGFkZHIiOiI1Mi4xMDQuMTAwLjE0MSIsImlzbG9vcGJhY2siOiJUcnVlIiwiaXNzIjoiMDAwMDAwMDMtMDAwMC0wZmYxLWNlMDAtMDAwMDAwMDAwMDAwIiwibmJmIjoiMTcxNTQzMTU3OCIsInB1aWQiOiIwMDAzQkZGREQ0RTg4NzAyIiwic2NwIjoibXlmaWxlcy5yZWFkIGFsbGZpbGVzLndyaXRlIGFsbHByb2ZpbGVzLnJlYWQiLCJzaWQiOiIzOTk5MjkxODcyMzc4MDQ0NDk1XzhjODkwYmJhLWU2ZjgtNGRmOC04MTUzLWE2NjA4M2Y5ZGQ3MyIsInNpdGVpZCI6Ik56TXhNbU15WkRJdE5qTTNZaTAwTnpaaExUbG1OMkl0TlRkaVltUmhPRFUxTkRJNCIsInRpZCI6IjkxODgwNDBkLTZjNjctNGM1Yi1iMTEyLTM2YTMwNGI2NmRhZCIsInR0IjoiMiIsInVwbiI6InhjbGVsZUBvdXRsb29rLmNvbSIsInZlciI6Imhhc2hlZHByb29mdG9rZW4ifQ.vSJobEwdG8yhxECPTgldKQSUAjK-18eFjEcmDdWtNQI&ApiVersion=2.0) | ![](https://github.com/NorthSecond/SYSU_Latex_Template/blob/main/figures/index.png?raw=true)| 
 
 ## 参考
 
